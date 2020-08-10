@@ -33,10 +33,11 @@ qualquer arquivo de linguagem pode nos dar as chaves corretas para criarmos text
 
 
 ### Notas
-Tive alguns problemas utilizando esse wrapper e acabei percebendo que sua implementação é muito simples
+Tive alguns problemas utilizando esse wrapper (quebra ao clicar no modo codigo algumas vezes)
 
-Talvez seja melhor criarmos nosso proprio wrapper no projeto
+Acabei percebendo que sua implementação é muito simples, 
+talvez seja melhor criarmos nosso proprio wrapper no projeto.
 
-seguindo o exemplo do ultimo comentario dessa issue:
+O exemplo do ultimo comentario dessa issue ta bem bacana:
 
 https://github.com/jodit/jodit-react/issues/4
