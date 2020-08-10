@@ -1,8 +1,4 @@
-```sh
-$ cd dillinger
-```
-
-## POC - REACT JODIT - LINGUAGEM e i18n
+# REACT JODIT - LINGUAGEM e i18n
 
 Exemplo de configuração de linguagem usando o Jodit-React
 
