@@ -7,7 +7,7 @@ Exemplo de configuração de linguagem usando o Jodit-React
 ⭐️ Linguagens predefinidas e i18n custom funcionando ⭐️
 
 
-![Image of Yaktocat](https://github.com/micheldpcarlos/react-jodit-poc/blob/master/sample.png?raw=true)
+![Sample Image](https://github.com/micheldpcarlos/react-jodit-poc/blob/master/sample.png?raw=true)
 
 ### Uso
 Para rodar o projeto basta executar
