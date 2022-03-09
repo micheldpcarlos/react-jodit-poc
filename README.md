@@ -1,4 +1,4 @@
-# REACT JODIT - POC
+# React Jodit - POC
 
 Language configuration using Jodit-React
 
